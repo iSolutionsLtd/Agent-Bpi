@@ -1,0 +1,1 @@
+./Debug/main.cpp.o ./Debug/McglShared_SharedMemory.cpp.o ./Debug/McglShared_mcgl_hw.cpp.o ./Debug/McglShared_mcgl_timer.cpp.o

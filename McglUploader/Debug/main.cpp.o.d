@@ -1,0 +1,180 @@
+Debug/main.cpp.o: main.cpp /usr/arm-linux-gnueabihf/include/stdc-predef.h \
+ mcglPC.h /usr/arm-linux-gnueabihf/include/stdio.h \
+ /usr/arm-linux-gnueabihf/include/features.h \
+ /usr/arm-linux-gnueabihf/include/sys/cdefs.h \
+ /usr/arm-linux-gnueabihf/include/bits/wordsize.h \
+ /usr/arm-linux-gnueabihf/include/gnu/stubs.h \
+ /usr/arm-linux-gnueabihf/include/gnu/stubs-hard.h \
+ /usr/arm-linux-gnueabihf/include/bits/types.h \
+ /usr/arm-linux-gnueabihf/include/bits/typesizes.h \
+ /usr/arm-linux-gnueabihf/include/libio.h \
+ /usr/arm-linux-gnueabihf/include/_G_config.h \
+ /usr/arm-linux-gnueabihf/include/wchar.h \
+ /usr/arm-linux-gnueabihf/include/bits/stdio_lim.h \
+ /usr/arm-linux-gnueabihf/include/bits/sys_errlist.h \
+ /usr/arm-linux-gnueabihf/include/unistd.h \
+ /usr/arm-linux-gnueabihf/include/bits/posix_opt.h \
+ /usr/arm-linux-gnueabihf/include/bits/environments.h \
+ /usr/arm-linux-gnueabihf/include/bits/confname.h \
+ /usr/arm-linux-gnueabihf/include/getopt.h ../McglShared/easylogging++.h \
+ /usr/arm-linux-gnueabihf/include/sys/stat.h \
+ /usr/arm-linux-gnueabihf/include/bits/stat.h \
+ /usr/arm-linux-gnueabihf/include/sys/time.h \
+ /usr/arm-linux-gnueabihf/include/pthread.h \
+ /usr/arm-linux-gnueabihf/include/sched.h \
+ /usr/arm-linux-gnueabihf/include/bits/sched.h \
+ /usr/arm-linux-gnueabihf/include/bits/setjmp.h \
+ /usr/arm-linux-gnueabihf/include/stdint.h \
+ /usr/arm-linux-gnueabihf/include/errno.h \
+ /usr/arm-linux-gnueabihf/include/bits/errno.h \
+ /usr/arm-linux-gnueabihf/include/linux/errno.h \
+ /usr/arm-linux-gnueabihf/include/asm/errno.h \
+ /usr/arm-linux-gnueabihf/include/asm-generic/errno.h \
+ /usr/arm-linux-gnueabihf/include/asm-generic/errno-base.h \
+ ../McglShared/mcgl_prop.h /usr/include/tinyxml2/tinyxml2.h \
+ ../McglShared/SharedMemory.h /usr/arm-linux-gnueabihf/include/sys/mman.h \
+ /usr/arm-linux-gnueabihf/include/bits/mman.h \
+ /usr/arm-linux-gnueabihf/include/bits/mman-linux.h \
+ /usr/arm-linux-gnueabihf/include/fcntl.h \
+ /usr/arm-linux-gnueabihf/include/bits/fcntl.h \
+ /usr/arm-linux-gnueabihf/include/bits/fcntl-linux.h \
+ /usr/arm-linux-gnueabihf/include/bits/uio.h \
+ /usr/arm-linux-gnueabihf/include/semaphore.h \
+ /usr/arm-linux-gnueabihf/include/bits/semaphore.h mcgl_uploader.h \
+ ../McglShared/mcgl_xml.h /usr/arm-linux-gnueabihf/include/uuid/uuid.h \
+ ../McglShared/mcgl_rest.h ../McglShared/mcgl_xml.h ftplib.h \
+ ../McglShared/timerClass.h /usr/arm-linux-gnueabihf/include/signal.h \
+ /usr/arm-linux-gnueabihf/include/bits/signum.h \
+ /usr/arm-linux-gnueabihf/include/bits/siginfo.h \
+ /usr/arm-linux-gnueabihf/include/bits/sigaction.h \
+ /usr/arm-linux-gnueabihf/include/bits/sigcontext.h \
+ /usr/arm-linux-gnueabihf/include/asm/sigcontext.h \
+ /usr/arm-linux-gnueabihf/include/bits/sigstack.h \
+ /usr/arm-linux-gnueabihf/include/sys/ucontext.h \
+ /usr/arm-linux-gnueabihf/include/bits/sigthread.h
+
+/usr/arm-linux-gnueabihf/include/stdc-predef.h:
+
+mcglPC.h:
+
+/usr/arm-linux-gnueabihf/include/stdio.h:
+
+/usr/arm-linux-gnueabihf/include/features.h:
+
+/usr/arm-linux-gnueabihf/include/sys/cdefs.h:
+
+/usr/arm-linux-gnueabihf/include/bits/wordsize.h:
+
+/usr/arm-linux-gnueabihf/include/gnu/stubs.h:
+
+/usr/arm-linux-gnueabihf/include/gnu/stubs-hard.h:
+
+/usr/arm-linux-gnueabihf/include/bits/types.h:
+
+/usr/arm-linux-gnueabihf/include/bits/typesizes.h:
+
+/usr/arm-linux-gnueabihf/include/libio.h:
+
+/usr/arm-linux-gnueabihf/include/_G_config.h:
+
+/usr/arm-linux-gnueabihf/include/wchar.h:
+
+/usr/arm-linux-gnueabihf/include/bits/stdio_lim.h:
+
+/usr/arm-linux-gnueabihf/include/bits/sys_errlist.h:
+
+/usr/arm-linux-gnueabihf/include/unistd.h:
+
+/usr/arm-linux-gnueabihf/include/bits/posix_opt.h:
+
+/usr/arm-linux-gnueabihf/include/bits/environments.h:
+
+/usr/arm-linux-gnueabihf/include/bits/confname.h:
+
+/usr/arm-linux-gnueabihf/include/getopt.h:
+
+../McglShared/easylogging++.h:
+
+/usr/arm-linux-gnueabihf/include/sys/stat.h:
+
+/usr/arm-linux-gnueabihf/include/bits/stat.h:
+
+/usr/arm-linux-gnueabihf/include/sys/time.h:
+
+/usr/arm-linux-gnueabihf/include/pthread.h:
+
+/usr/arm-linux-gnueabihf/include/sched.h:
+
+/usr/arm-linux-gnueabihf/include/bits/sched.h:
+
+/usr/arm-linux-gnueabihf/include/bits/setjmp.h:
+
+/usr/arm-linux-gnueabihf/include/stdint.h:
+
+/usr/arm-linux-gnueabihf/include/errno.h:
+
+/usr/arm-linux-gnueabihf/include/bits/errno.h:
+
+/usr/arm-linux-gnueabihf/include/linux/errno.h:
+
+/usr/arm-linux-gnueabihf/include/asm/errno.h:
+
+/usr/arm-linux-gnueabihf/include/asm-generic/errno.h:
+
+/usr/arm-linux-gnueabihf/include/asm-generic/errno-base.h:
+
+../McglShared/mcgl_prop.h:
+
+/usr/include/tinyxml2/tinyxml2.h:
+
+../McglShared/SharedMemory.h:
+
+/usr/arm-linux-gnueabihf/include/sys/mman.h:
+
+/usr/arm-linux-gnueabihf/include/bits/mman.h:
+
+/usr/arm-linux-gnueabihf/include/bits/mman-linux.h:
+
+/usr/arm-linux-gnueabihf/include/fcntl.h:
+
+/usr/arm-linux-gnueabihf/include/bits/fcntl.h:
+
+/usr/arm-linux-gnueabihf/include/bits/fcntl-linux.h:
+
+/usr/arm-linux-gnueabihf/include/bits/uio.h:
+
+/usr/arm-linux-gnueabihf/include/semaphore.h:
+
+/usr/arm-linux-gnueabihf/include/bits/semaphore.h:
+
+mcgl_uploader.h:
+
+../McglShared/mcgl_xml.h:
+
+/usr/arm-linux-gnueabihf/include/uuid/uuid.h:
+
+../McglShared/mcgl_rest.h:
+
+../McglShared/mcgl_xml.h:
+
+ftplib.h:
+
+../McglShared/timerClass.h:
+
+/usr/arm-linux-gnueabihf/include/signal.h:
+
+/usr/arm-linux-gnueabihf/include/bits/signum.h:
+
+/usr/arm-linux-gnueabihf/include/bits/siginfo.h:
+
+/usr/arm-linux-gnueabihf/include/bits/sigaction.h:
+
+/usr/arm-linux-gnueabihf/include/bits/sigcontext.h:
+
+/usr/arm-linux-gnueabihf/include/asm/sigcontext.h:
+
+/usr/arm-linux-gnueabihf/include/bits/sigstack.h:
+
+/usr/arm-linux-gnueabihf/include/sys/ucontext.h:
+
+/usr/arm-linux-gnueabihf/include/bits/sigthread.h:

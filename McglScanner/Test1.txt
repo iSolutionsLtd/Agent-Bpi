@@ -1,0 +1,1 @@
+./Debug/main.cpp.o ./Debug/mcgl_fat32.cpp.o ./Debug/mcgl_xml.cpp.o ./Debug/mcgl_prop.cpp.o

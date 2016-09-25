@@ -1,0 +1,1 @@
+./Debug/main.cpp.o ./Debug/McglShared_mcgl_prop.cpp.o ./Debug/McglShared_mcgl_xml.cpp.o ./Debug/mcgl_uploader.cpp.o ./Debug/ftplib.cpp.o ./Debug/McglShared_mcgl_rest.cpp.o ./Debug/McglShared_mcgl_timer.cpp.o ./Debug/McglShared_SharedMemory.cpp.o ./Debug/jsoncpp_jsoncpp.cpp.o
